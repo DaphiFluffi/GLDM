@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a9bfb06-8b3c-4600-90ba-e93759522265" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="GLDM_UE1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GRDM_U4_s0568871.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1938">
+              <caret line="120" column="24" selection-start-line="120" selection-start-column="24" selection-end-line="120" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GRDM_U5_s0568871.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="method#createKernel#0;class#GRDM_U5_s0568871#0" />
+                <element signature="method#randbehandlung#0;class#GRDM_U5_s0568871#0" />
+                <element signature="method#storePixelValues#0;class#GRDM_U5_s0568871#0" />
+                <element signature="class#CustomCanvas#0;class#GRDM_U5_s0568871#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Scale_s0568871.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="83" column="92" selection-start-line="83" selection-start-column="92" selection-end-line="83" selection-end-column="92" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GLDM_U1_s0568871.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1700">
+              <caret line="105" column="66" selection-start-line="105" selection-start-column="66" selection-end-line="105" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1581#1641#1" />
+                <element signature="method#generateYellowImage#0;class#GLDM_U1_s0568871#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GRDM_U2_s0568871.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3485">
+              <caret line="226" column="55" selection-start-line="226" selection-start-column="55" selection-end-line="226" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/src/ij.jar!/ij/plugin/PlugIn.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GRDM_U3_s0568871.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4556">
+              <caret line="342" selection-start-line="342" selection-end-line="342" />
+              <folding>
+                <element signature="e#2627#2790#1" />
+                <element signature="e#2830#3332#1" />
+                <element signature="e#3367#3955#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>GLDM_U1</find>
+      <find>make</find>
+      <find>brigh</find>
+      <find>jSliderC</find>
+      <find>saturation</find>
+      <find>panel</find>
+      <find>bright</find>
+      <find>contrast</find>
+      <find>slider</find>
+      <find>change</find>
+      <find>length</find>
+      <find>height</find>
+      <find>rA</find>
+      <find>x</find>
+      <find>orig</find>
+      <find>offset</find>
+      <find>border</find>
+      <find>main</find>
+      <find>imagepro</find>
+      <find>getnext</find>
+      <find>gd</find>
+      <find>y</find>
+      <find>imp</find>
+      <find>pos</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/GLDM_U2.java" />
+        <option value="$PROJECT_DIR$/src/Uebung_01.java" />
+        <option value="$PROJECT_DIR$/src/RGB.java" />
+        <option value="$PROJECT_DIR$/src/YCbCr.java" />
+        <option value="$PROJECT_DIR$/src/GRDM_U2_s0534227.java" />
+        <option value="$USER_HOME$/Downloads/GRDM_U2_s0569808 (1).java" />
+        <option value="$PROJECT_DIR$/src/GRDM_U2_s0569808.java" />
+        <option value="$PROJECT_DIR$/src/GRDM_U2_new.java" />
+        <option value="$PROJECT_DIR$/src/GRDM_U2.java" />
+        <option value="$PROJECT_DIR$/src/GRDM_U2_s0568871.java" />
+        <option value="$USER_HOME$/Downloads/GRDM_U5.java" />
+        <option value="$PROJECT_DIR$/src/U5_Natalia.java" />
+        <option value="$PROJECT_DIR$/src/GRDM_U5_s0568871.java" />
+        <option value="$PROJECT_DIR$/src/GRDM_U3_s0568871.java" />
+        <option value="$PROJECT_DIR$/src/GRDM_U4_s0568871.java" />
+        <option value="$PROJECT_DIR$/src/GLDM_U1_s0568871.java" />
+        <option value="$PROJECT_DIR$/src/Scale_s0568871.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GLDM_UE1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GLDM_UE1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GLDM_UE1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GLDM_UE1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Info2Uebung04" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mcflu\IdeaProjects\GLDM_UE1\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Scale_s0568871">
+    <configuration name="GLDM_U1_s0568871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GLDM_U1_s0568871" />
+      <module name="GLDM_UE1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GRDM_U2_s0568871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GRDM_U2_s0568871" />
+      <module name="GLDM_UE1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GRDM_U3_s0568871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GRDM_U3_s0568871" />
+      <module name="GLDM_UE1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GRDM_U4_s0568871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GRDM_U4_s0568871" />
+      <module name="GLDM_UE1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scale_s0568871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scale_s0568871" />
+      <module name="GLDM_UE1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Scale_s0568871" />
+        <item itemvalue="Application.GRDM_U3_s0568871" />
+        <item itemvalue="Application.GRDM_U4_s0568871" />
+        <item itemvalue="Application.GLDM_U1_s0568871" />
+        <item itemvalue="Application.GRDM_U2_s0568871" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a9bfb06-8b3c-4600-90ba-e93759522265" name="Default Changelist" comment="" />
+      <created>1555410881077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555410881077</updated>
+      <workItem from="1555410887770" duration="8742000" />
+      <workItem from="1555431213358" duration="1821000" />
+      <workItem from="1555495033916" duration="2477000" />
+      <workItem from="1555503748639" duration="7283000" />
+      <workItem from="1555513862132" duration="2393000" />
+      <workItem from="1555573696239" duration="1159000" />
+      <workItem from="1555580178252" duration="56000" />
+      <workItem from="1555665664829" duration="2411000" />
+      <workItem from="1555936710292" duration="640000" />
+      <workItem from="1556619657380" duration="10686000" />
+      <workItem from="1556725554999" duration="4739000" />
+      <workItem from="1556730372082" duration="32000" />
+      <workItem from="1557656678221" duration="4937000" />
+      <workItem from="1557667837012" duration="1875000" />
+      <workItem from="1557734559825" duration="6224000" />
+      <workItem from="1557742623176" duration="563000" />
+      <workItem from="1557749578506" duration="8304000" />
+      <workItem from="1557761599654" duration="3489000" />
+      <workItem from="1557816014389" duration="1573000" />
+      <workItem from="1557819641620" duration="4919000" />
+      <workItem from="1557824867893" duration="121000" />
+      <workItem from="1557829262535" duration="7650000" />
+      <workItem from="1557849102706" duration="677000" />
+      <workItem from="1557857155127" duration="25000" />
+      <workItem from="1558789335039" duration="8638000" />
+      <workItem from="1558856976607" duration="3390000" />
+      <workItem from="1558900605523" duration="2268000" />
+      <workItem from="1558951044400" duration="23000" />
+      <workItem from="1558963887973" duration="669000" />
+      <workItem from="1559038718711" duration="8160000" />
+      <workItem from="1559124423133" duration="23000" />
+      <workItem from="1559131114604" duration="703000" />
+      <workItem from="1560174805969" duration="10924000" />
+      <workItem from="1560194947632" duration="224000" />
+      <workItem from="1560238747288" duration="342000" />
+      <workItem from="1560248299284" duration="9937000" />
+      <workItem from="1560261157890" duration="6848000" />
+      <workItem from="1560330744172" duration="849000" />
+      <workItem from="1561210845515" duration="4348000" />
+      <workItem from="1561237774178" duration="5462000" />
+      <workItem from="1561458039065" duration="8728000" />
+      <workItem from="1561479395330" duration="105000" />
+      <workItem from="1561483013914" duration="71000" />
+      <workItem from="1561623215493" duration="1766000" />
+      <workItem from="1561649462626" duration="1456000" />
+      <workItem from="1561802707429" duration="13866000" />
+      <workItem from="1562003639627" duration="1338000" />
+      <workItem from="1562015984695" duration="2885000" />
+      <workItem from="1562068423984" duration="18000" />
+      <workItem from="1562237410105" duration="1004000" />
+      <workItem from="1562324611686" duration="780000" />
+      <workItem from="1562661180757" duration="619000" />
+      <workItem from="1564607580854" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="178268000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4964539" visible="true" weight="0.27854252" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5035461" side_tool="true" weight="0.21376519" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27531084" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3250444" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.7198381" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.24939272" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4964539" visible="true" weight="0.24048583" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5035461" side_tool="true" weight="0.21376519" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24866785" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3250444" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.24939272" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/GLDM_U2.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/javax/swing/event/ChangeListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Daphna/HTW Berlin - Internationale Medieninformatik/2. Semester HTW/Grundlagen Digitaler Medien/GRDM_U2_new.java" />
+    <entry file="file://$PROJECT_DIR$/src/Uebung_01.java" />
+    <entry file="file://$USER_HOME$/Dropbox/IMI/2. Semester/Grundlagen Digitaler Medien/Übungen/uebung2/GRDM_U2_s0534227.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/ij.jar!/ij/WindowManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="76" column="28" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/GRDM_U2_s0569808 (1).java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="8" lean-forward="true" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GRDM_U2_s0569808.java" />
+    <entry file="file://$PROJECT_DIR$/src/YCbCr.java" />
+    <entry file="file://$PROJECT_DIR$/src/RGB.java" />
+    <entry file="file://$PROJECT_DIR$/src/GRDM_U2_s0534227.java" />
+    <entry file="file://$PROJECT_DIR$/src/GRDM_U2_new.java" />
+    <entry file="file://$USER_HOME$/Downloads/GRDM_U4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="196" column="24" lean-forward="true" selection-start-line="196" selection-start-column="24" selection-end-line="196" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/IMI/2. Semester/Grundlagen Digitaler Medien/Übungen/uebung5/GRDM_U5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2023">
+          <caret line="180" column="42" selection-start-line="180" selection-start-column="36" selection-end-line="180" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/GRDM_U5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="163" column="39" lean-forward="true" selection-start-line="163" selection-start-column="39" selection-end-line="163" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2560#2723#1" />
+            <element signature="e#2764#3171#1" />
+            <element signature="e#4233#5526#1" />
+            <element signature="e#5574#6985#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/U5_Natalia.java" />
+    <entry file="file://$USER_HOME$/Dropbox/IMI/2. Semester/Grundlagen Digitaler Medien/Übungen/uebung3/GRDM_U3_s0534227.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="342" column="11" lean-forward="true" selection-start-line="342" selection-start-column="11" selection-end-line="342" selection-end-column="11" />
+          <folding>
+            <element signature="docComment;method#binaer#0;class#CustomWindow#0;class#GRDM_U3_s0534227#0" />
+            <element signature="method#binaer#0;class#CustomWindow#0;class#GRDM_U3_s0534227#0" />
+            <element signature="method#binaerGraustufen#0;class#CustomWindow#0;class#GRDM_U3_s0534227#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa19672.49329/Scale_S0556774.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1683">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GRDM_U4_s0568871.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="120" column="24" selection-start-line="120" selection-start-column="24" selection-end-line="120" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GRDM_U5_s0568871.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="method#createKernel#0;class#GRDM_U5_s0568871#0" />
+            <element signature="method#randbehandlung#0;class#GRDM_U5_s0568871#0" />
+            <element signature="method#storePixelValues#0;class#GRDM_U5_s0568871#0" />
+            <element signature="class#CustomCanvas#0;class#GRDM_U5_s0568871#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GLDM_U1_s0568871.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="105" column="66" selection-start-line="105" selection-start-column="66" selection-end-line="105" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1581#1641#1" />
+            <element signature="method#generateYellowImage#0;class#GLDM_U1_s0568871#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GRDM_U2_s0568871.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3485">
+          <caret line="226" column="55" selection-start-line="226" selection-start-column="55" selection-end-line="226" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/ij.jar!/ij/plugin/PlugIn.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GRDM_U3_s0568871.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4556">
+          <caret line="342" selection-start-line="342" selection-end-line="342" />
+          <folding>
+            <element signature="e#2627#2790#1" />
+            <element signature="e#2830#3332#1" />
+            <element signature="e#3367#3955#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Scale_s0568871.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="83" column="92" selection-start-line="83" selection-start-column="92" selection-end-line="83" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GLDM_UE1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>ij</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
